@@ -7,7 +7,8 @@ A dynamic personal budget tracker built entirely in Excel. Navigate month-to-mon
 ![Dashboard](https://img.shields.io/badge/Type-Interactive%20Dashboard-informational?style=flat)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=flat)
 
-![Dashboard Preview](https://private-user-images.githubusercontent.com/285036900/604110191-c1f3b73d-c336-415e-a84c-5e3c89025791.png)
+![Dashboard Preview]<img width="1233" height="1586" alt="image" src="https://github.com/user-attachments/assets/a451adc4-8a56-4708-a085-4f1e4d8e8124" />
+
 
 ---
 
